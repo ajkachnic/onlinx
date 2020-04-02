@@ -4,7 +4,7 @@
   "description": "A lightning fast, dependency-less HTTP framework",
   "main": "index.js",
   "scripts": {
-    "min":"minify index.js > index.min.js && minify codes.js > codes.min.js"
+    "min": "minify index.js > index.min.js && minify codes.js > codes.min.js"
   },
   "keywords": [],
   "author": "Andrew Kachnic <ajkachnic@protonmail.com> (andrewkachnic.now.sh)",
